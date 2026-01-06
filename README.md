@@ -1,8 +1,8 @@
-#🩺 CareHug - Women Health is Wealth
+# CareHug - Women Health is Wealth
 CareHug is a cute, caring, and secure health & wellness platform designed exclusively for women.
 It helps women track their health, understand their bodies better, and improve overall well-being through simple technology.
 
-#💡 Project Overview
+# Project Overview
 
 CareHug focuses on women-centric health needs such as:
 
@@ -16,7 +16,7 @@ Health reminders and insights
 
 The goal is to create a safe, private, and supportive digital space for women’s health.
 
-#✨ Features
+# Features
 
 🩸 Period Tracking – Track cycles and predict next period dates
 
@@ -30,7 +30,7 @@ The goal is to create a safe, private, and supportive digital space for women’
 
 🌸 User-Friendly UI – Simple, cute, and easy to use design
 
-#🛠️ Technology Stack
+# Technology Stack
 
 Frontend: Android (Java) / Web (HTML, CSS, JavaScript)
 
@@ -42,7 +42,7 @@ Authentication: Email & Password login
 
 Notifications: Firebase Cloud Messaging
 
-#📂 Project Modules
+# Project Modules
 
 User Registration & Login
 
@@ -56,7 +56,7 @@ Notification & Reminder System
 
 Secure Data Storage
 
-#🎯 Objective
+# Objective
 
 To promote women’s health awareness
 
@@ -66,13 +66,13 @@ To ensure privacy and security of sensitive data
 
 To encourage self-care and wellness
 
-#🧪 Use Case Example
+# Use Case Example
 
 A user logs into CareHug and enters her menstrual cycle details.
 The system securely stores the data, predicts the next cycle date, and sends reminders.
 Based on symptoms entered, the app provides helpful wellness tips.
 
-#🚀 Future Enhancements
+# Future Enhancements
 
 AI-based cycle prediction
 
@@ -84,7 +84,7 @@ Emergency health alert system
 
 Wearable device integration
 
-#💖 Acknowledgment
+# Acknowledgment
 
 This project is built with the intention of empowering women through technology and creating awareness about women’s health and wellness.
 
