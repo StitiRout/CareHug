@@ -32,11 +32,11 @@ The goal is to create a safe, private, and supportive digital space for women’
 
 # Technology Stack
 
-Frontend: Android (Java) / Web (HTML, CSS, JavaScript)
+Frontend: React(Vite),Tailwind CSS ,React Router
 
-Backend: Firebase / Node.js + Express
+Backend: Spring Boot ,Spring Security ,Jwt Authentication
 
-Database: MongoDB
+Database: PostgreSQL
 
 Authentication: Email & Password login
 
