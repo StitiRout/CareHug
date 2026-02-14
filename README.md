@@ -1,4 +1,4 @@
-# CareHug - Women Health is Wealth
+# CareHug - Your Health , Your Way
 CareHug is a cute, caring, and secure health & wellness platform designed exclusively for women.
 It helps women track their health, understand their bodies better, and improve overall well-being through simple technology.
 
