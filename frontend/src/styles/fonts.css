@@ -1,0 +1,4 @@
+/* Colonna MT font fallback */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap');
+
+/* If Colonna MT is not available on the system, Cinzel will be used as a similar alternative */
