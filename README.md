@@ -34,7 +34,7 @@ CareHug/
 
 # 🚀 How to Run
 
-# Backend
+## Backend
 Go to backend folder:
 
 cd backend
@@ -49,7 +49,7 @@ Backend runs at:
 
 http://localhost:8080
 
-# Frontend
+## Frontend
 
 Go to frontend folder:
 
