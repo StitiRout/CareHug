@@ -1,4 +1,4 @@
-# 🌸 CareHug
+# 🌸 CareHug : Your Health , Your Way
 CareHug is a full-stack web application built using:
 Spring Boot (Java)
 PostgreSQL
